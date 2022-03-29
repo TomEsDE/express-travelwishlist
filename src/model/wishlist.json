@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Algeria",
+    "alpha2": "DZ",
+    "alpha3": "DZA",
+    "numeric": "012"
+  },
+  {
+    "name": "Albania",
+    "alpha2": "AL",
+    "alpha3": "ALB",
+    "numeric": "008"
+  },
+  {
+    "name": "American   Samoa",
+    "alpha2": "AS",
+    "alpha3": "ASM",
+    "numeric": "016"
+  },
+  {
+    "name": "Andorra",
+    "alpha2": "AD",
+    "alpha3": "AND",
+    "numeric": "020"
+  },
+  {
+    "name": "Angola",
+    "alpha2": "AO",
+    "alpha3": "AGO",
+    "numeric": "024"
+  }
+]
